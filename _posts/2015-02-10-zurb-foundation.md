@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Zurb Foundation
-permalink: http://foundation.zurb.com/docs/
+extlink: http://foundation.zurb.com/docs/
 ---
 
 CSS-фреймворк, выбранный для создания новых проектов.
